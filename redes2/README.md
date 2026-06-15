@@ -2,4 +2,4 @@
 
 Repositório para o Trabalho 2 da disciplina de Redes II.
 
-**Grupo:** Alisson de Souza Rocha, [Nome do Integrante 2], [Nome do Integrante 3]
+**Grupo:** Alisson de Souza Rocha, José Inácio de Moraes Santos, Rafael Gomes da Silva
